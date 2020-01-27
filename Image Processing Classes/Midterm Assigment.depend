@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1577084659 source:c:\users\akkaya\desktop\projects\c++\midterm assignement\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<cctype>
+	<math.h>
+
+1575065516 c:\users\akkaya\desktop\projects\c++\midterm assignement\classes.h
+	<iostream>
+	<string>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<cctype>
+
+1575899490 c:\users\akkaya\desktop\projects\c++\midterm assignement\matrix.h
+	<iostream>
+	<string>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<cctype>
+	<math.h>
+
+1577082605 c:\users\akkaya\desktop\projects\c++\midterm assignement\table.h
+	<iostream>
+	<string>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<cctype>
+	<math.h>
+
+1575234974 c:\users\akkaya\desktop\projects\c++\midterm assignement\image.h
+	<iostream>
+	<string>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<cctype>
+	"matrix.h"
+
